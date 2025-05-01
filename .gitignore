@@ -1,0 +1,5 @@
+
+# Ignore virtual environment
+FirstProject/
+__pycache__/
+*.pyc
